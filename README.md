@@ -1,2 +1,2 @@
 # nzr-minecraft
-Serveur µ
+Serveur Minecraft NZR
