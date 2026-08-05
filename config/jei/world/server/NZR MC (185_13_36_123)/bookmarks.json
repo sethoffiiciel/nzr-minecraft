@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cobblemon:safari_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tuff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:pierce_arrow"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

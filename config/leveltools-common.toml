@@ -1,0 +1,53 @@
+#Whether the tool leveling system is enabled
+enabled = true
+#Whether tools should evolve to higher tiers (e.g. Wood -> Stone) upon reaching specific levels
+enableEvolutions = true
+#How many levels are required for a tool to evolve (e.g. 5 means evolution happens at level 5, 10, 15, etc.)
+# Default: 5
+# Range: > 1
+evolutionLevelInterval = 5
+#Base amount of XP (actions) required to reach level 1
+# Default: 100.0
+# Range: 1.0 ~ 1.7976931348623157E308
+durabilityLossToLevel = 100.0
+#Power exponent applied to the level for calculating XP cost. Formula: Base * (Level+1)^Multiplier. (e.g. 1.5 is a balanced RPG curve)
+# Default: 1.5
+# Range: 1.0 ~ 100.0
+levelXpMultiplier = 1.5
+#Percentage increase to maximum durability per level
+# Default: 15.0
+# Range: 0.0 ~ 1000.0
+durabilityBonusPercent = 15.0
+#Percentage increase to mining speed per level
+# Default: 5.0
+# Range: 0.0 ~ 1000.0
+speedBonusPercent = 5.0
+#Percentage increase to attack damage per level
+# Default: 5.0
+# Range: 0.0 ~ 1000.0
+damageBonusPercent = 5.0
+#Multiplier for the XP gained by equipped armors when taking damage (e.g. 5.0 means 5x faster than weapons)
+# Default: 5.0
+# Range: 0.0 ~ 100.0
+armorXpGainMultiplier = 5.0
+#Percentage of incoming damage reduced per level of armor (e.g. 1.0 means 1% less damage taken per level)
+# Default: 1.0
+# Range: 0.0 ~ 25.0
+armorDamageReductionPercent = 1.0
+#XP multiplier for weapons to compensate for less frequent use
+# Default: 2.5
+# Range: 0.0 ~ 100.0
+weaponXPMultiplier = 2.5
+#XP multiplier for tools
+# Default: 1.0
+# Range: 0.0 ~ 100.0
+toolXPMultiplier = 1.0
+#Whether the tool should be fully repaired upon leveling up
+levelUpFullRepair = true
+#Whether to show a chat message to the player when their tool levels up
+showLevelUpMessage = true
+#Whether to show the leveling HUD overlay
+showHUD = true
+#Position of the leveling HUD on the screen
+#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CENTER_ABOVE_HOTBAR
+hudPosition = "BOTTOM_LEFT"

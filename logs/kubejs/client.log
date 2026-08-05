@@ -1,0 +1,22 @@
+[09:14:42] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[09:14:42] [INIT] Loaded plugins:
+[09:14:42] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[09:14:42] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[09:14:42] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[09:14:42] [INIT] - com.github.zgraund.createreautomated.compat.kubejs.CRAKubeJSPlugin
+[09:14:42] [INIT] - net.davio.aquaticambitions.compat.KubeJS.CAAKubeJSPlugin
+[09:14:42] [INIT] - com.breakinblocks.neovitae.compat.kubejs.NVKubeJSPlugin
+[09:14:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[09:14:42] [INIT] - nadiendev.neovitaekjs.NeoVitaeKubeJSPlugin
+[09:14:42] [INIT] - nadiendev.voidminersremastered.common.compat.kubejs.VoidMinersKubeJSPlugin
+[09:14:42] [INIT] - fr.iglee42.createcasing.kubejs.EncasedKJSPlugin
+[09:14:42] [INIT] - com.lightning.northstar.compat.kubejs.NorthstarKubeJsPlugin
+[09:14:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[09:14:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[09:14:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[09:14:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[09:14:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[09:14:42] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[09:14:42] [INFO] Loaded script client_scripts:main.js in 0.001 s
+[09:14:42] [INFO] Loaded 1/1 KubeJS client scripts in 0.028 s with 0 errors and 0 warnings
+[09:14:53] [INFO] Client resource reload complete!

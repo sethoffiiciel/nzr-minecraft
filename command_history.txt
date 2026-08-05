@@ -1,0 +1,33 @@
+/pokemonedit 2 level 15
+/pokemonedit 2 level = 15
+/pokemonedit 2 level 15
+/pokemonedit 2 level = 15
+/teach SethOffiiciel 6 hydrocannon
+/teach SethOffiiciel 6 hydro
+/teach SethOffiiciel 6 hydropump
+/pokemoneditother SethOffiiciel 1 level 15
+/pokemoneditother SethOffiiciel 2 level 15
+/pokemonedit experience 3375
+/pokemonedit 2 experience 3375
+/pokemonedit 1 iv_hp=31 iv_attack=31 iv_defence=31 iv_special_attack=31 iv_special_defence=31 iv_speed=31 ev_attack=252 ev_speed=252 ev_hp=6
+/pokemonedit 2 iv_hp=31 iv_attack=31 iv_defence=31 iv_special_attack=31 iv_special_defence=31 iv_speed=31 ev_attack=252 ev_speed=252 ev_hp=6
+/pokemonedit 1 iv_hp=31 iv_attack=31 iv_defence=31 iv_special_attack=31 iv_special_defence=31 iv_speed=31 ev_attack=252 ev_speed=252 ev_hp=6
+/healpokemon 2
+/healpokemon SethOffiiciel
+/heal SethOffiiciel
+/pokeedit 1 shiny
+/setworldspawn
+/time set day
+/heal
+/lootr chest
+/lootr clear sethofficiel
+/lootr clear sethoffiiciel
+/function svm:reset_config
+/lootr clear sethoffiiciel
+/heal
+/relics level ADD 10
+/enhancedcelestials setLunarEvent
+/enhancedcelestials setLunarEvent enhancedcelestials:super_blue_moon
+/reload
+/gamemode spectator
+/gamemode survival

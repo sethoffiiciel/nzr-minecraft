@@ -1,0 +1,36 @@
+#Show a small type icon on each Pokémon slot in the PC.
+showTypeIcons = true
+#Color type names in the Type filter dropdown (off = white).
+colorTypeNames = false
+#Show a type icon next to each type in the Type filter dropdown.
+showTypeFilterIcons = true
+#View the PC opens in (remembers last): BOX_VIEW or LIST_VIEW.
+#Allowed Values: BOX_VIEW, LIST_VIEW
+defaultView = "LIST_VIEW"
+#Show the draggable scrollbar in the List view (mouse-wheel and keyboard scrolling still work without it).
+showListScrollbar = true
+#Draw a thin frame around the List view grid.
+showListFrame = true
+#Open the PC with the filter terminal collapsed (remembers last).
+startFiltersCollapsed = false
+#Show a gold star on favorited Pokémon's slots in the grid.
+showFavoriteStars = true
+#List view sort (remembers last): NONE, LEVEL, or DEX.
+#Allowed Values: NONE, LEVEL, DEX
+defaultSort = "NONE"
+#Sort descending, e.g. highest level first (remembers last).
+defaultSortDescending = false
+#Pin favorited Pokémon to the top of the List view.
+defaultFavoritesFirst = false
+#How non-matches show while filtering (PC list / party):
+#COLLAPSE_PC_HIDE_PARTY - pack list; hide party non-matches.
+#COLLAPSE_PC_FADE_PARTY - pack list; dim party non-matches.
+#FADE_PC_HIDE_PARTY - dim list non-matches; hide party ones.
+#FADE_PC_FADE_PARTY - dim non-matches everywhere; hide none.
+#Allowed Values: COLLAPSE_PC_HIDE_PARTY, COLLAPSE_PC_FADE_PARTY, FADE_PC_HIDE_PARTY, FADE_PC_FADE_PARTY
+filterDisplay = "COLLAPSE_PC_FADE_PARTY"
+#Overall size of the PC interface (uniform scaling). Larger sizes also enlarge text.
+#Allowed Values: NORMAL, MEDIUM, LARGE, EXTRA_LARGE
+pcSize = "NORMAL"
+#Remember where you dragged the PC Plus terminal window and the filter catalog, and how you resized them, across PC opens. Off = they reset to their default spot and size each time (so they can't get lost).
+rememberTerminalPosition = false

@@ -1,0 +1,28 @@
+#Radius in chunks of the spread sample around the scan origin.
+# Default: 32
+# Range: 1 ~ 512
+scan_radius_chunks = 32
+#Chunks sampled in a small cluster around each located biome position.
+# Default: 4
+# Range: 0 ~ 64
+biome_cluster_size = 4
+#Maximum number of chunks sampled in a single scan.
+# Default: 2048
+# Range: 16 ~ 131072
+chunk_budget = 2048
+#How often, in seconds, scan progress is posted to the command sender.
+# Default: 1
+# Range: 1 ~ 60
+progress_update_interval_seconds = 1
+#Biomes with fewer sampled columns than this are flagged low-confidence.
+# Default: 8
+# Range: 0 ~ 4096
+low_confidence_sample_threshold = 8
+#Permission level required for /ods scan, cancel, clear, and reload. Default 0 means any player can use them with no cheats; raise it to restrict these to operators.
+# Default: 0
+# Range: 0 ~ 4
+scan_permission_level = 0
+#Extra block ids to count as ores, e.g. "minecraft:ancient_debris".
+ore_whitelist = []
+#Block ids to exclude even if the ore tag includes them.
+ore_blacklist = []

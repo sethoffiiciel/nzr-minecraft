@@ -1,0 +1,22 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw0,1,0
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
+dimensionType:cobblemonraiddens$raid_dimension:cobblemonraiddens$raid_dimension_type
+//third-party waypoints
+third-party-waypoint:dim%0:waystones:waystone:61572fbb-a4bb-485c-90f0-34e54d92a51b::false::::;
+third-party-waypoint:dim%0:waystones:waystone:53492c16-7e6f-4c57-a2b0-c59c8b1a9549::false::::;
+third-party-waypoint:dim%0:waystones:waystone:0c511df0-394f-4158-9b75-3f8e8ce7e329::false::::;
+third-party-waypoint:dim%0:waystones:waystone:145c54b2-fb9a-497d-b6f3-f31e161e767c::false::::;
+third-party-waypoint:dim%0:waystones:waystone:abcb5a44-5f70-43a4-a9a9-787c3d798758::false::::;

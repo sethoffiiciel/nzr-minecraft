@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"rctmod:trainer_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:netherite_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:netherite_backpack","components":{"sophisticatedcore:main_color":-3382982,"sophisticatedcore:accent_color":-10342886,"sophisticatedcore:number_of_inventory_slots":120,"sophisticatedcore:number_of_upgrade_slots":7}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:netherite_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

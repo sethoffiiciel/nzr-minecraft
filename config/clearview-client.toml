@@ -1,0 +1,3 @@
+#Visual mode applied when a Cobblemon battle starts.
+#Allowed Values: POKEMON_ONLY, BLOCKS_3, BLOCKS_6, BLOCKS_9, BLOCKS_18, TRIMMED
+mode = "BLOCKS_18"
