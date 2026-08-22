@@ -1,6 +1,6 @@
 {
-  "version": "v0.0.1-mods",
-  "generatedAt": "2026-08-05T08:24:44.201Z",
+  "version": "0.0.1",
+  "generatedAt": "2026-08-22T08:16:47.461Z",
   "files": [
     {
       "name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -24,11 +24,11 @@
       "sha256": "8207248a06f80e42fd8d0b63d6dae9dac577fc4d38f67a95c1a2bf615a5a0f28"
     },
     {
-      "name": "additionalrecipes-0.0.3.jar",
-      "path": "mods/additionalrecipes-0.0.3.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/additionalrecipes-0.0.3.jar",
-      "size": 14943,
-      "sha256": "5e4e3fd2be983e598ed2daa07eccd441fea123acdfe5337ab932eb2b5e33ddb8"
+      "name": "additionalrecipes-0.0.4.jar",
+      "path": "mods/additionalrecipes-0.0.4.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/additionalrecipes-0.0.4.jar",
+      "size": 19945,
+      "sha256": "f29d7efc2d47b7071890a1c0039d773d815da39680d9cffabc19a901faa4f3ea"
     },
     {
       "name": "AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar",
@@ -101,11 +101,11 @@
       "sha256": "c60f58fba975fe22681d69bd06dc93818e53a67830d9118167979852206f6ca8"
     },
     {
-      "name": "alltheleaks-1.1.11+1.21.1-neoforge.jar",
-      "path": "mods/alltheleaks-1.1.11+1.21.1-neoforge.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/alltheleaks-1.1.11%2B1.21.1-neoforge.jar",
-      "size": 540482,
-      "sha256": "a5bf9bdb3a52b09b1521cdee46735a6e2265438a5084284d037e0042306bd6bd"
+      "name": "alltheleaks-1.1.12+1.21.1-neoforge.jar",
+      "path": "mods/alltheleaks-1.1.12+1.21.1-neoforge.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/alltheleaks-1.1.12%2B1.21.1-neoforge.jar",
+      "size": 562895,
+      "sha256": "ca64ec07c29cadb0e7703e993fbaad26029ebc4203626d2638aefe989e5be74f"
     },
     {
       "name": "allthemodium-3.0.1_mc_1.21.1.jar",
@@ -155,6 +155,20 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ApothicSpawners-1.21.1-1.4.0.jar",
       "size": 129784,
       "sha256": "f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe"
+    },
+    {
+      "name": "arcadia-admin-panel-1.2.12.jar",
+      "path": "mods/arcadia-admin-panel-1.2.12.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/arcadia-admin-panel-1.2.12.jar",
+      "size": 306157,
+      "sha256": "6af98bd8b538e7a9656da7d90cfdbad787b24144a5cc2525ca206652bcd8451e"
+    },
+    {
+      "name": "arcadia-lib-1.21.1-1.2.15.jar",
+      "path": "mods/arcadia-lib-1.21.1-1.2.15.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/arcadia-lib-1.21.1-1.2.15.jar",
+      "size": 2705482,
+      "sha256": "c41d76361517e970755dc4c50ddf7a928bee25d4d1438d1d24c2aa7172f5d750"
     },
     {
       "name": "architectury-13.0.11-neoforge.jar",
@@ -220,11 +234,11 @@
       "sha256": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
     },
     {
-      "name": "balm-neoforge-1.21.1-21.0.64.jar",
-      "path": "mods/balm-neoforge-1.21.1-21.0.64.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/balm-neoforge-1.21.1-21.0.64.jar",
+      "name": "balm-neoforge-1.21.1-21.0.65.jar",
+      "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/balm-neoforge-1.21.1-21.0.65.jar",
       "size": 783793,
-      "sha256": "1bd122300943c75b359c7d0460dc715bee69aaa5d21dda713c03786bfd66b2b1"
+      "sha256": "490fa5fcb7ca83a9b5a84e33c2832298db99d189131001b9277a1de7fdc0bf91"
     },
     {
       "name": "bellsandwhistles-0.4.7-1.21.1.jar",
@@ -346,11 +360,11 @@
       "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
     },
     {
-      "name": "catchindicator-neoforge-2.1.jar",
-      "path": "mods/catchindicator-neoforge-2.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/catchindicator-neoforge-2.1.jar",
-      "size": 340227,
-      "sha256": "c582b5d757778b3f758debcce7d25b889c33da9cc5f5d3c65f0001c04766f642"
+      "name": "catchindicator-neoforge-2.1.1.jar",
+      "path": "mods/catchindicator-neoforge-2.1.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/catchindicator-neoforge-2.1.1.jar",
+      "size": 339829,
+      "sha256": "8ff8143bde0a293ecbee7a8116b6f003e3e18d4b094398f2d443f224b36f04c8"
     },
     {
       "name": "chatnotify-neoforge-2.6.9+1.21.1.jar",
@@ -360,18 +374,11 @@
       "sha256": "37f3feacad0d16c0323fcc61aac4bd459d2d543041441675edf2cf6f96cb6f84"
     },
     {
-      "name": "chat_heads-0.15.4-neoforge-1.21.jar",
-      "path": "mods/chat_heads-0.15.4-neoforge-1.21.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/chat_heads-0.15.4-neoforge-1.21.jar",
-      "size": 89684,
-      "sha256": "58ffbad65a3cf22c8a524d0f7da0f2a2f9699960155b0b783d9c72ff7d95056a"
-    },
-    {
-      "name": "clearview-1.0.4.jar.disabled",
-      "path": "mods/clearview-1.0.4.jar.disabled",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/clearview-1.0.4.jar.disabled",
-      "size": 30966,
-      "sha256": "cca7c157f80fa78506db27cd78716362dde85f7392a4ed58b5ba41a2c023e866"
+      "name": "chat_heads-0.15.7-neoforge-1.21.jar",
+      "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/chat_heads-0.15.7-neoforge-1.21.jar",
+      "size": 91948,
+      "sha256": "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
     },
     {
       "name": "cloth-config-15.0.140-neoforge.jar",
@@ -379,6 +386,13 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cloth-config-15.0.140-neoforge.jar",
       "size": 1163890,
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "name": "cobblefight-neoforge-0.2+1.21.1.jar",
+      "path": "mods/cobblefight-neoforge-0.2+1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblefight-neoforge-0.2%2B1.21.1.jar",
+      "size": 153127,
+      "sha256": "ef1eb68d2c6909611e803a78cf8a5b3b10b27bb0616667e6474e9c9f30fad878"
     },
     {
       "name": "CobbleFurnies-neoforge-1.2.jar",
@@ -423,6 +437,13 @@
       "sha256": "e7815bf55dc7c932560a2fb7e1babd7290f65d4d89f096ced81ce6f14d7bc6dd"
     },
     {
+      "name": "cobblemonfix-1.0.0.jar",
+      "path": "mods/cobblemonfix-1.0.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemonfix-1.0.0.jar",
+      "size": 8121,
+      "sha256": "9d584f4a9516a7dbb8a815dec2e671702dd9610c3ba94ba1c79866c83c5fa7c8"
+    },
+    {
       "name": "cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
       "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
@@ -437,11 +458,11 @@
       "sha256": "94f7a892222fc4d7d186051e9f1e33c6e46f0ff7be27c5b248a9a3e4415a7bfd"
     },
     {
-      "name": "cobblemonraiddens-neoforge-0.11.5+1.21.1.jar",
-      "path": "mods/cobblemonraiddens-neoforge-0.11.5+1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemonraiddens-neoforge-0.11.5%2B1.21.1.jar",
-      "size": 2716904,
-      "sha256": "c9ff66e599953a3ca929baade368418f7c3b226a8538b892a22ad0884ffe0e98"
+      "name": "cobblemonraiddens-neoforge-0.11.6+1.21.1.jar",
+      "path": "mods/cobblemonraiddens-neoforge-0.11.6+1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemonraiddens-neoforge-0.11.6%2B1.21.1.jar",
+      "size": 2716955,
+      "sha256": "2606ae23fd138cd1da01178c86e7870f59bec928e0e2bb32b685ae3749f13331"
     },
     {
       "name": "CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar",
@@ -451,13 +472,6 @@
       "sha256": "90e605a1ef5b2792cb890086a9b2831a65e713d8565bdbe23990baf6876bc348"
     },
     {
-      "name": "cobblemon_incubator-neoforge-1.0.4.jar",
-      "path": "mods/cobblemon_incubator-neoforge-1.0.4.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemon_incubator-neoforge-1.0.4.jar",
-      "size": 335332,
-      "sha256": "25c2ec04e202702076268631ca1e1cabf8a675d5f038f0f5a8249ada2f3db6bf"
-    },
-    {
       "name": "cobblemon_industries-neoforge-1.5.0.jar",
       "path": "mods/cobblemon_industries-neoforge-1.5.0.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemon_industries-neoforge-1.5.0.jar",
@@ -465,15 +479,15 @@
       "sha256": "a6da25da084b5a6c00895a2c178370063123aa7a9ff52b665c6f777c62d81e43"
     },
     {
-      "name": "cobblemon_legendary_orbs-1.0.0-neoforge.L+H-1.21.1.jar",
-      "path": "mods/cobblemon_legendary_orbs-1.0.0-neoforge.L+H-1.21.1.jar",
+      "name": "cobblemon_legendary_orbs-1.0.0-neoforge L+H-1.21.1.jar",
+      "path": "mods/cobblemon_legendary_orbs-1.0.0-neoforge L+H-1.21.1.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemon_legendary_orbs-1.0.0-neoforge.L%2BH-1.21.1.jar",
       "size": 111178,
       "sha256": "5f39be792f96a993ff3daf5cc6574279c4e42dc8dde646ffea71c918d724cbea"
     },
     {
-      "name": "cobblemon_quests-.1.21.1.-neoforge-1.2.0.jar",
-      "path": "mods/cobblemon_quests-.1.21.1.-neoforge-1.2.0.jar",
+      "name": "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
+      "path": "mods/cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobblemon_quests-.1.21.1.-neoforge-1.2.0.jar",
       "size": 65748,
       "sha256": "2335926e42be71d0019979d51760f8eb2b010faa28a0aea538948525d99d2bf2"
@@ -505,6 +519,13 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Cobblepedia-NeoForge-0.7.1.jar",
       "size": 8276599,
       "sha256": "d978d6223e46c23e2d812235b89d2bf8c297b8155c13640a1de7a503484c996e"
+    },
+    {
+      "name": "cobbletracker-neoforge-1.1.0.jar",
+      "path": "mods/cobbletracker-neoforge-1.1.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cobbletracker-neoforge-1.1.0.jar",
+      "size": 643441,
+      "sha256": "da497a9cbf4d7da0afe57df7b5bd0195c64b4641ca1fefc3d1841b456fa38595"
     },
     {
       "name": "Cobbreeding-neoforge-2.2.2.jar",
@@ -542,6 +563,13 @@
       "sha256": "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
     },
     {
+      "name": "Cosmetic Forms [v1.4].jar",
+      "path": "mods/Cosmetic Forms [v1.4].jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Cosmetic.Forms.v1.4.jar",
+      "size": 365568,
+      "sha256": "2cfa7f6adfc19cd4c8cd8a0924fa2a986bcd8c3016e051073b2fb000ddbed312"
+    },
+    {
       "name": "counter-neoforge-1.7.3-1.9.0.jar",
       "path": "mods/counter-neoforge-1.7.3-1.9.0.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/counter-neoforge-1.7.3-1.9.0.jar",
@@ -556,18 +584,18 @@
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
     },
     {
-      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "size": 33120013,
-      "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+      "name": "create-aeronautics-bundled-1.21.1-1.3.1.jar",
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-aeronautics-bundled-1.21.1-1.3.1.jar",
+      "size": 33121810,
+      "sha256": "b531dbe1081ee354f6e47ba4e0443b9caa648dfb8c82013a591a20836245bd84"
     },
     {
-      "name": "create-central-kitchen-2.5.0.jar",
-      "path": "mods/create-central-kitchen-2.5.0.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-central-kitchen-2.5.0.jar",
-      "size": 375492,
-      "sha256": "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec"
+      "name": "create-central-kitchen-2.6.0.jar",
+      "path": "mods/create-central-kitchen-2.6.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-central-kitchen-2.6.0.jar",
+      "size": 488390,
+      "sha256": "36df9749ca8a994c3b52284554307b47b990a18e43de347527726167614994cb"
     },
     {
       "name": "create-cobblemon-integrations-0.3.9.jar",
@@ -591,32 +619,32 @@
       "sha256": "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d"
     },
     {
-      "name": "create-integrated-farming-1.2.6.jar",
-      "path": "mods/create-integrated-farming-1.2.6.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-integrated-farming-1.2.6.jar",
-      "size": 438847,
-      "sha256": "6eef62f0a46d68e0fec18ce23c14104a0608ff9c66939c59e88c606fa268dd40"
+      "name": "create-integrated-farming-1.3.2.jar",
+      "path": "mods/create-integrated-farming-1.3.2.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-integrated-farming-1.3.2.jar",
+      "size": 595923,
+      "sha256": "1f97c95a8b57c2661d7181d617d839cf9618210ea06b20c79e964f234d2fce0b"
     },
     {
-      "name": "create-stuff-additions1.21.1_v2.1.4a.jar",
-      "path": "mods/create-stuff-additions1.21.1_v2.1.4a.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-stuff-additions1.21.1_v2.1.4a.jar",
-      "size": 1344545,
-      "sha256": "3e93a9930e49bc3f8ae5cf5e45f5e9065860ea708365f8ed4336289295b66893"
+      "name": "create-stuff-additions1.21.1_v2.1.4b.jar",
+      "path": "mods/create-stuff-additions1.21.1_v2.1.4b.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create-stuff-additions1.21.1_v2.1.4b.jar",
+      "size": 1347181,
+      "sha256": "4aee9a1af2754609ab31bfebf13dc0d7d648e61e440232dbf9bb3459941e23d5"
     },
     {
-      "name": "Create.Encased-1.21.1-1.9.0-ht3.jar",
-      "path": "mods/Create.Encased-1.21.1-1.9.0-ht3.jar",
+      "name": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "path": "mods/Create Encased-1.21.1-1.9.0-ht3.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Create.Encased-1.21.1-1.9.0-ht3.jar",
       "size": 3110804,
       "sha256": "e93bb110241ab8283c6238590eb04f1fb37199815623f53f3e981ee650f344a3"
     },
     {
-      "name": "Create.Unbreakable.Netherite.Tools.Series.2.Neoforge-1.21.1.jar",
-      "path": "mods/Create.Unbreakable.Netherite.Tools.Series.2.Neoforge-1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Create.Unbreakable.Netherite.Tools.Series.2.Neoforge-1.21.1.jar",
-      "size": 419976,
-      "sha256": "c74b2ea571c5766b70ad3684906985e30aeab348d2b9870c3ddc127db2d29a95"
+      "name": "Create Unbreakable Netherite Tools Series 3 Neoforge-1.21.1.jar",
+      "path": "mods/Create Unbreakable Netherite Tools Series 3 Neoforge-1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Create.Unbreakable.Netherite.Tools.Series.3.Neoforge-1.21.1.jar",
+      "size": 422922,
+      "sha256": "3a11d1cdb6b7b131ec6c02c4543b575e66e38ff81b9bb05452a52750443844c6"
     },
     {
       "name": "createaddition-1.6.0.jar",
@@ -633,18 +661,18 @@
       "sha256": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
     },
     {
-      "name": "createcontraptionterminals-1.21-1.3.0.jar",
-      "path": "mods/createcontraptionterminals-1.21-1.3.0.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/createcontraptionterminals-1.21-1.3.0.jar",
-      "size": 90967,
-      "sha256": "7c4efa9b10dc9684f835eebb7c7d9c3b9032587d3f848bcf6120bc7e4771eaed"
+      "name": "createcontraptionterminals-1.21-1.4.0.jar",
+      "path": "mods/createcontraptionterminals-1.21-1.4.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/createcontraptionterminals-1.21-1.4.0.jar",
+      "size": 91226,
+      "sha256": "ce67a1d5543a1629460bcfd530f595e024fc89ebb7861bf1094aa398df19d9ee"
     },
     {
-      "name": "CreateDragonsPlus-1.11.4.jar",
-      "path": "mods/CreateDragonsPlus-1.11.4.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/CreateDragonsPlus-1.11.4.jar",
-      "size": 1029344,
-      "sha256": "80687f22daa95fa6240631097688f1e0295a5d31473d9aa56a14d360d863e98b"
+      "name": "CreateDragonsPlus-1.11.7b.jar",
+      "path": "mods/CreateDragonsPlus-1.11.7b.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/CreateDragonsPlus-1.11.7b.jar",
+      "size": 1038830,
+      "sha256": "bdad8fae41888d161b7ef59ded32d5efcf3f80dd9f19fddaad38c24b139e6ee7"
     },
     {
       "name": "createframed-1.21.1-1.8.2.jar",
@@ -654,8 +682,8 @@
       "sha256": "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283"
     },
     {
-      "name": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
-      "path": "mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
+      "name": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "path": "mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "size": 180932,
       "sha256": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907"
@@ -703,11 +731,11 @@
       "sha256": "5ac4431935b43a226ca5fdfe68f1399c022a82ca7ab7d539b7c0b3b070fba357"
     },
     {
-      "name": "createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
-      "path": "mods/createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
-      "size": 329543,
-      "sha256": "92e3bd1fc41abffeda12fd6defae457158cd68f9c80d4c0cb7b3c70973da392f"
+      "name": "createschematicchecker-2.27.43-6.0-neoforge-1.21.1.jar",
+      "path": "mods/createschematicchecker-2.27.43-6.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/createschematicchecker-2.27.43-6.0-neoforge-1.21.1.jar",
+      "size": 348692,
+      "sha256": "0d98b7f9f0493c1d59dcd2181dceb8d31d7eff7ecdbd73397fbcb51d1c3acadd"
     },
     {
       "name": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
@@ -766,11 +794,11 @@
       "sha256": "cf99c1c4943230c6b1d88527da72c3a9db908d76bcaf4e3fefe345ac8a3c9081"
     },
     {
-      "name": "create_ltab-4.0.3.jar",
-      "path": "mods/create_ltab-4.0.3.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create_ltab-4.0.3.jar",
-      "size": 2857558,
-      "sha256": "2c7d8a0c7b0f5bea5c21267e0531955b55acfab499d5d5f37d946dced54fc41e"
+      "name": "create_ltab-4.1.0.jar",
+      "path": "mods/create_ltab-4.1.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/create_ltab-4.1.0.jar",
+      "size": 2894822,
+      "sha256": "d19e9de5496ba79dc8de7688adaab901af98c3b9281aae723d29ec97a2cf4d11"
     },
     {
       "name": "create_mekanism_compat-0.1.21.jar",
@@ -836,11 +864,11 @@
       "sha256": "6bbca7da92548a727abd29bc04fbd659dff87718ae24a1558d8ae83f654c6574"
     },
     {
-      "name": "cupboard-1.21.1-3.9.jar",
-      "path": "mods/cupboard-1.21.1-3.9.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cupboard-1.21.1-3.9.jar",
-      "size": 28829,
-      "sha256": "6cea20b8318ea7c4cfcebb30a90b2e52ad91a457051b285b1ef02c5c00f08be8"
+      "name": "cupboard-1.21.1-4.0.jar",
+      "path": "mods/cupboard-1.21.1-4.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/cupboard-1.21.1-4.0.jar",
+      "size": 29598,
+      "sha256": "426cd295560df4fceac7b410d864bd93ac200f8b77f9146ac430e92f36dae761"
     },
     {
       "name": "curios-neoforge-9.5.1+1.21.1.jar",
@@ -850,11 +878,11 @@
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
     },
     {
-      "name": "Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
-      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
-      "size": 119163,
-      "sha256": "ec5d54ae85bc39be3c17b38d800aa8e2fa57a2a1f46464fc1e328ed61eb85041"
+      "name": "Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
+      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar",
+      "size": 119142,
+      "sha256": "4965cdb056939f6298fed1ff2b1c2aa99c481fe0be3f4006a296abd11a5f9c0f"
     },
     {
       "name": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
@@ -920,11 +948,11 @@
       "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
     },
     {
-      "name": "dynamicvillage-0.7-1.21.1.jar",
-      "path": "mods/dynamicvillage-0.7-1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/dynamicvillage-0.7-1.21.1.jar",
-      "size": 242380,
-      "sha256": "f41c363d475a255e70e054ddbe96d9ee63e0cf4824feb3e4b0cc79bdb9ad732c"
+      "name": "dynamicvillage-0.8-1.21.1.jar",
+      "path": "mods/dynamicvillage-0.8-1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/dynamicvillage-0.8-1.21.1.jar",
+      "size": 259253,
+      "sha256": "8c99e60ad464ac6e42199029b4f3a3c4ec83a1e2e1f497a3d94668f1d357a7c3"
     },
     {
       "name": "elevatorid-neoforge-1.21.1-1.11.4.jar",
@@ -941,18 +969,18 @@
       "sha256": "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16"
     },
     {
-      "name": "Enhanced-Celestials-2-Core-NeoForge-1.21.1-1.0.0.2.jar",
-      "path": "mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-1.0.0.2.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-1.0.0.2.jar",
-      "size": 257609,
-      "sha256": "f987dc71c40499a1d5dd5f91f76e55860d6fea3590b4eadef84c06ce97e337d9"
+      "name": "Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.0.0.jar",
+      "path": "mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.0.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.0.0.jar",
+      "size": 259455,
+      "sha256": "186ffae013b8cd955df3f2702d6676521e7a17854310e51f696f17c842caa449"
     },
     {
-      "name": "Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-1.0.0.0.jar",
-      "path": "mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-1.0.0.0.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-1.0.0.0.jar",
-      "size": 1422123,
-      "sha256": "5823111d51fec5f02f8f5012d9f3b307188f4f0147ca342ade20fa237f2ad61d"
+      "name": "Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.0.0.jar",
+      "path": "mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.0.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.0.0.jar",
+      "size": 1422142,
+      "sha256": "1462d64f8d43289f25fceb0a540868b86c865c4ac7b100ce0526af4dee52f574"
     },
     {
       "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
@@ -976,6 +1004,13 @@
       "sha256": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
     },
     {
+      "name": "ExtraDisks-1.21.1-4.0.15.jar",
+      "path": "mods/ExtraDisks-1.21.1-4.0.15.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ExtraDisks-1.21.1-4.0.15.jar",
+      "size": 343628,
+      "sha256": "0124461b4445c1f478566e80b92f7d5546cb38430a415e1e6a001d75f54bd019"
+    },
+    {
       "name": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
       "path": "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
@@ -983,18 +1018,18 @@
       "sha256": "3c4152461540e3cce8fe25c3e1a1fa8ce6982bbad44dca6d3b7e30a05ab2d531"
     },
     {
-      "name": "fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
-      "path": "mods/fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
-      "size": 25905174,
-      "sha256": "23236908b3ef362e4a3bd48cf2610247ac9d974ba44003c509d70063471dec77"
+      "name": "fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
+      "path": "mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
+      "size": 25905546,
+      "sha256": "e7c425718ca40a39128b690ae22ea069d30e8136aca9c33238589cb17114a63a"
     },
     {
-      "name": "FarmersDelight-1.21.1-1.3.2.jar",
-      "path": "mods/FarmersDelight-1.21.1-1.3.2.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/FarmersDelight-1.21.1-1.3.2.jar",
-      "size": 3163042,
-      "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+      "name": "FarmersDelight-1.21.1-1.3.3.jar",
+      "path": "mods/FarmersDelight-1.21.1-1.3.3.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/FarmersDelight-1.21.1-1.3.3.jar",
+      "size": 3160883,
+      "sha256": "5dfe78ec57cfc793952611c77cb92d0d66765da5bd1ac326ba85faa4c236b78d"
     },
     {
       "name": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
@@ -1004,11 +1039,11 @@
       "sha256": "6f6203b2bc94c99bb8e43b690e6801a679b53b8a2143bda17be56d51aa60cbce"
     },
     {
-      "name": "farmers_croptopia-1.21.1-3.2.2.jar",
-      "path": "mods/farmers_croptopia-1.21.1-3.2.2.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/farmers_croptopia-1.21.1-3.2.2.jar",
-      "size": 294492,
-      "sha256": "77794c53f47cb6650569169e3a229e0d5cb7bcb8ceb780f0e0d917a54f3478c8"
+      "name": "farmers_croptopia-1.21.1-3.2.3.jar",
+      "path": "mods/farmers_croptopia-1.21.1-3.2.3.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/farmers_croptopia-1.21.1-3.2.3.jar",
+      "size": 296070,
+      "sha256": "ef452cb8924ab630b1d86dba81510a559e0843d7f9b50f6b6062f57c49c7c2da"
     },
     {
       "name": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
@@ -1109,11 +1144,11 @@
       "sha256": "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b"
     },
     {
-      "name": "ftb-library-neoforge-2101.1.34.jar",
-      "path": "mods/ftb-library-neoforge-2101.1.34.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-library-neoforge-2101.1.34.jar",
-      "size": 1439001,
-      "sha256": "603e7c9fc8e7020642f2ff6d3a904ef5cb12f7cf8b683c5ff8b08f120d083cff"
+      "name": "ftb-library-neoforge-2101.1.35.jar",
+      "path": "mods/ftb-library-neoforge-2101.1.35.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-library-neoforge-2101.1.35.jar",
+      "size": 1439018,
+      "sha256": "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d"
     },
     {
       "name": "ftb-pause-menu-api-21.1.3.jar",
@@ -1123,11 +1158,11 @@
       "sha256": "e60fee13d58b5ced35d54b44c0d4bfada65eb4c701ae0155e7e592fe9315c022"
     },
     {
-      "name": "ftb-quests-neoforge-2101.1.29.jar",
-      "path": "mods/ftb-quests-neoforge-2101.1.29.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-quests-neoforge-2101.1.29.jar",
-      "size": 1595992,
-      "sha256": "2ffadf25c6cf01fd77bfddee0263e526750ae3597befed77004dddf40ef8e2c1"
+      "name": "ftb-quests-neoforge-2101.1.32.jar",
+      "path": "mods/ftb-quests-neoforge-2101.1.32.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-quests-neoforge-2101.1.32.jar",
+      "size": 1604680,
+      "sha256": "25b650b86897b5235bfa77efeed8568f46f73e9343dc3cc0acab8fc38b31d705"
     },
     {
       "name": "ftb-ranks-neoforge-2101.1.4.jar",
@@ -1151,18 +1186,18 @@
       "sha256": "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
     },
     {
-      "name": "ftb-xmod-compat-neoforge-21.1.10.jar",
-      "path": "mods/ftb-xmod-compat-neoforge-21.1.10.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-xmod-compat-neoforge-21.1.10.jar",
-      "size": 152024,
-      "sha256": "781cbeb22e932c7a44de6b0b6528d86fdd30295a44f1558bcd51864def755419"
+      "name": "ftb-xmod-compat-neoforge-21.1.11.jar",
+      "path": "mods/ftb-xmod-compat-neoforge-21.1.11.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ftb-xmod-compat-neoforge-21.1.11.jar",
+      "size": 153045,
+      "sha256": "0bfa6513c51b697a81ab2afc1b25983d3e39fe4a33ec334b57e6384b25a17450"
     },
     {
-      "name": "functionalstorage-1.21.1-1.5.4.jar",
-      "path": "mods/functionalstorage-1.21.1-1.5.4.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/functionalstorage-1.21.1-1.5.4.jar",
-      "size": 770603,
-      "sha256": "e32d625ace9e463e313627d2fe8d50b8648b11e34b3e48aa7f165687604c8b37"
+      "name": "functionalstorage-1.21.1-1.5.8.jar",
+      "path": "mods/functionalstorage-1.21.1-1.5.8.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/functionalstorage-1.21.1-1.5.8.jar",
+      "size": 810628,
+      "sha256": "e3e7368c28a24e7de5b877988aa92cc94ca7417c8f60b7d28e7f584a94a51147"
     },
     {
       "name": "fusion-1.3.12-neoforge-mc1.21.1.jar",
@@ -1200,11 +1235,11 @@
       "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
     },
     {
-      "name": "gravestone-neoforge-1.21.1-1.0.38.jar",
-      "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/gravestone-neoforge-1.21.1-1.0.38.jar",
-      "size": 321850,
-      "sha256": "9aeec340571f55147bab02bdea252e25a2e6d7b27b282d12817c34090a35f945"
+      "name": "gravestone-neoforge-1.21.1-1.0.40.jar",
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "size": 322082,
+      "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
     },
     {
       "name": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
@@ -1226,6 +1261,20 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "size": 213853,
       "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+    },
+    {
+      "name": "ifmup-1.0.1-mc1.21.1-neoforge.jar",
+      "path": "mods/ifmup-1.0.1-mc1.21.1-neoforge.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ifmup-1.0.1-mc1.21.1-neoforge.jar",
+      "size": 583184,
+      "sha256": "95c68e50afe8ea0861c6762daa0262475e7733a41097b4c3414b1d0551ed3a8f"
+    },
+    {
+      "name": "ifwootaddon-21.1.2.2.jar",
+      "path": "mods/ifwootaddon-21.1.2.2.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ifwootaddon-21.1.2.2.jar",
+      "size": 91932,
+      "sha256": "494492c2fc977fb0f7cc2dfd8b823569c3446c822331a78448c0ad62224210b3"
     },
     {
       "name": "industrialforegoing-1.21-3.6.38.jar",
@@ -1263,25 +1312,18 @@
       "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
     },
     {
-      "name": "Jade-1.21.1-NeoForge-15.10.5.jar",
-      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "size": 725742,
-      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+      "name": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "size": 726853,
+      "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
     },
     {
-      "name": "jei-1.21.1-neoforge-19.43.0.393.jar",
-      "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-      "size": 1685121,
-      "sha256": "088c583065db05abeedca7868b619d22e204bcd73aafe7736b9eb79bcbb67c8a"
-    },
-    {
-      "name": "journeymap-neoforge-1.21.1-6.0.2.jar",
-      "path": "mods/journeymap-neoforge-1.21.1-6.0.2.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/journeymap-neoforge-1.21.1-6.0.2.jar",
-      "size": 4156387,
-      "sha256": "70f929597dc48d29a23b00c2eb7a7f67bb4436e066557ade51a4b88b25ee5a6c"
+      "name": "jei-1.21.1-neoforge-19.44.0.402.jar",
+      "path": "mods/jei-1.21.1-neoforge-19.44.0.402.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/jei-1.21.1-neoforge-19.44.0.402.jar",
+      "size": 1697373,
+      "sha256": "003b76561fc1f69d648c924906e80fcf14a14b136326f830bf2895e82593cce4"
     },
     {
       "name": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -1315,8 +1357,15 @@
       "name": "kubejs-create-neoforge-2101.3.1-build.18.jar",
       "path": "mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
-      "size": 38629,
-      "sha256": "9051fd08349850cb9b28845554246ef4f2c976892835a704ee27dcb7c8bfd7a1"
+      "size": 38630,
+      "sha256": "60fab77c339e5757a97a9a1e2d4019ed2a610bd46583d4353c9a13596e01e614"
+    },
+    {
+      "name": "kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "path": "mods/kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "size": 58054,
+      "sha256": "dacb4a139b071b9958b0fc8fe8ba74585703886af0970d821bc49247ecbf89ae"
     },
     {
       "name": "kubejs-neoforge-2101.7.2-build.368.jar",
@@ -1324,13 +1373,6 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/kubejs-neoforge-2101.7.2-build.368.jar",
       "size": 2281720,
       "sha256": "28867299e7a9f02cfd74e34745fdbbb073fe4887fddbc98fd6c1ed2e87b01482"
-    },
-    {
-      "name": "lambdynamiclights-4.8.10+1.21.1.jar",
-      "path": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/lambdynamiclights-4.8.10%2B1.21.1.jar",
-      "size": 2022585,
-      "sha256": "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
     },
     {
       "name": "leaderboards-1.21.1-NeoForge-2.0.4.jar",
@@ -1438,6 +1480,13 @@
       "sha256": "2ef8ee998a5c224c2037cbfe488c2d66aa9522f1f0c32083c692741682ab58d9"
     },
     {
+      "name": "lost_lore-neoforge-3.0.0.jar",
+      "path": "mods/lost_lore-neoforge-3.0.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/lost_lore-neoforge-3.0.0.jar",
+      "size": 4912068,
+      "sha256": "70e7d01662cf2e395c072abc36b10555cac3b6469f118493f381546a4ef5b7d8"
+    },
+    {
       "name": "mangomultiblock-1.21.1-3.0-release-NeoForge.jar",
       "path": "mods/mangomultiblock-1.21.1-3.0-release-NeoForge.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/mangomultiblock-1.21.1-3.0-release-NeoForge.jar",
@@ -1529,11 +1578,11 @@
       "sha256": "1408d46bc2e7515b25b4da8393f8dbb3d79bcd9fb6d51fcf26fe84734c2597af"
     },
     {
-      "name": "mega_showdown-neoforge-1.9.3+1.7.3+1.21.1.jar",
-      "path": "mods/mega_showdown-neoforge-1.9.3+1.7.3+1.21.1.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/mega_showdown-neoforge-1.9.3%2B1.7.3%2B1.21.1.jar",
-      "size": 18992788,
-      "sha256": "25ca0afdac71220a34a8dc74cffb14e2eaffc292b0ecb81ebb8b465edf3d73cb"
+      "name": "mega_showdown-neoforge-1.9.4+1.7.3+1.21.1.jar",
+      "path": "mods/mega_showdown-neoforge-1.9.4+1.7.3+1.21.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/mega_showdown-neoforge-1.9.4%2B1.7.3%2B1.21.1.jar",
+      "size": 20073685,
+      "sha256": "e8c466c1631fd2e79b54527f9f04b8caac60e5be08513f507d501e7e57afd46d"
     },
     {
       "name": "Mekanism-1.21.1-10.7.19.85.jar",
@@ -1550,8 +1599,8 @@
       "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
     },
     {
-      "name": "MergeEnchantments-NEOFORGE-1.21.1-10.-v4.3.jar",
-      "path": "mods/MergeEnchantments-NEOFORGE-1.21.1-10.-v4.3.jar",
+      "name": "MergeEnchantments-NEOFORGE-1.21.[1-10]-v4.3.jar",
+      "path": "mods/MergeEnchantments-NEOFORGE-1.21.[1-10]-v4.3.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/MergeEnchantments-NEOFORGE-1.21.1-10.-v4.3.jar",
       "size": 10752,
       "sha256": "0b86ad0346bff5cdd1e36b71965251efa6e54a6953823e63bc82293dad855635"
@@ -1569,6 +1618,13 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/midnightlib-neoforge-1.9.3%2B1.21.1.jar",
       "size": 61217,
       "sha256": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
+    },
+    {
+      "name": "mifa-neoforge-1.21.x-2.1.0.jar",
+      "path": "mods/mifa-neoforge-1.21.x-2.1.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/mifa-neoforge-1.21.x-2.1.0.jar",
+      "size": 122759,
+      "sha256": "dab09f72c4df39efc5d7f8949e4ab02b7d5f74242ee17b8c26fb172c2761d49f"
     },
     {
       "name": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
@@ -1599,11 +1655,11 @@
       "sha256": "35d055e524c3491126ebe874984e8d77cb18460de4479d03a36d9f00404cc726"
     },
     {
-      "name": "moonlight-1.21.1-3.3.2-neoforge.jar",
-      "path": "mods/moonlight-1.21.1-3.3.2-neoforge.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/moonlight-1.21.1-3.3.2-neoforge.jar",
-      "size": 2143736,
-      "sha256": "e64737a18c934fe1fac2c4bf3ea1e997012d06ab67e2a06635def5968edb4474"
+      "name": "moonlight-1.21.1-3.3.4-neoforge.jar",
+      "path": "mods/moonlight-1.21.1-3.3.4-neoforge.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/moonlight-1.21.1-3.3.4-neoforge.jar",
+      "size": 2150988,
+      "sha256": "167320f7fb89669ba5bbcb1a35ea3c94ace403484250a38f55151a0c8d17bfb2"
     },
     {
       "name": "MoreCobblemonTweaks-neoforge-1.3.3.jar",
@@ -1634,20 +1690,6 @@
       "sha256": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
     },
     {
-      "name": "neovitae-1.21.1-1.1.6.jar",
-      "path": "mods/neovitae-1.21.1-1.1.6.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/neovitae-1.21.1-1.1.6.jar",
-      "size": 13242058,
-      "sha256": "ed5cad8e0ae8393dc6d5f5f034b3ecd3628c901abf8964e9a01cc8688ee015b1"
-    },
-    {
-      "name": "NeoVitaeKJS-1.21.1-0.0.1-NeoForge.jar",
-      "path": "mods/NeoVitaeKJS-1.21.1-0.0.1-NeoForge.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/NeoVitaeKJS-1.21.1-0.0.1-NeoForge.jar",
-      "size": 1301128,
-      "sha256": "a5bebc3d513ac9d6206331a4494840e0aade7933a27854f182c9dab9f9e4fd3b"
-    },
-    {
       "name": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
@@ -1655,8 +1697,8 @@
       "sha256": "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a"
     },
     {
-      "name": "NoEnchantmentCapLevel-NEOFORGE-1.21.0-4.-v1.2.jar",
-      "path": "mods/NoEnchantmentCapLevel-NEOFORGE-1.21.0-4.-v1.2.jar",
+      "name": "NoEnchantmentCapLevel-NEOFORGE-1.21.[0-4]-v1.2.jar",
+      "path": "mods/NoEnchantmentCapLevel-NEOFORGE-1.21.[0-4]-v1.2.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/NoEnchantmentCapLevel-NEOFORGE-1.21.0-4.-v1.2.jar",
       "size": 22488,
       "sha256": "a61a80a65db52a8de06f90d4aa3f9ba70b9ed1a7bdd81bf07f5c77f6a679e720"
@@ -1669,18 +1711,18 @@
       "sha256": "446684adabeefa223c4d7b3704ea8c1b5c6810f421c0f7b8f1fe45fad14c21c2"
     },
     {
-      "name": "Not.Enough.Recipe.Book-NEOFORGE-0.4.3+1.21.jar",
-      "path": "mods/Not.Enough.Recipe.Book-NEOFORGE-0.4.3+1.21.jar",
+      "name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Not.Enough.Recipe.Book-NEOFORGE-0.4.3%2B1.21.jar",
       "size": 23830,
       "sha256": "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0"
     },
     {
-      "name": "ntgl-1.21.1-3.1.8.jar",
-      "path": "mods/ntgl-1.21.1-3.1.8.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ntgl-1.21.1-3.1.8.jar",
-      "size": 3966979,
-      "sha256": "f395e740fe8186a58c9c03d0382609003e5ec995c3e598dffc7ff3aa9bb48f88"
+      "name": "ntgl-1.21.1-3.2.0.jar",
+      "path": "mods/ntgl-1.21.1-3.2.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/ntgl-1.21.1-3.2.0.jar",
+      "size": 3965533,
+      "sha256": "38c3a93426c44195b7cdb0773b2d4554496bcc57f994f19779714e03b0bf0122"
     },
     {
       "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
@@ -1809,8 +1851,8 @@
       "sha256": "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
     },
     {
-      "name": "Radical.Gyms.Structures.-.RGS.jar",
-      "path": "mods/Radical.Gyms.Structures.-.RGS.jar",
+      "name": "Radical Gyms  Structures - RGS.jar",
+      "path": "mods/Radical Gyms  Structures - RGS.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Radical.Gyms.Structures.-.RGS.jar",
       "size": 2084611,
       "sha256": "0b46a96e94d7ca037a0deddfec445616c32ae11535caf3d4e68cfd6fbe93822f"
@@ -1842,13 +1884,6 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
       "size": 983177,
       "sha256": "ba89cd5d1221621ed226cc7f1c26dc84a660cc4f6d122753052429f96d71248d"
-    },
-    {
-      "name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar.disabled",
-      "path": "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar.disabled",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar.disabled",
-      "size": 260876,
-      "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
     },
     {
       "name": "refinedstorage-jei-integration-neoforge-1.0.0.jar",
@@ -1900,11 +1935,11 @@
       "sha256": "95df92ce578b2504cb16d8c9fc285303bf062eb15452246a18e57b7cf091c19a"
     },
     {
-      "name": "sable-neoforge-1.21.1-2.0.3.jar",
-      "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "size": 12889000,
-      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+      "name": "sable-neoforge-1.21.1-2.0.5.jar",
+      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "size": 12986136,
+      "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
     },
     {
       "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
@@ -1984,25 +2019,25 @@
       "sha256": "df9f369a544418ca51011c3291382cdb9ac7fd014b0d54cf433f5875035226ae"
     },
     {
-      "name": "sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
-      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
-      "size": 1144235,
-      "sha256": "ded30f9269a92cc295ab0a735a86770ca097c30198b8f3f2288ecaac6542b93e"
+      "name": "sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
+      "size": 1172284,
+      "sha256": "7e87a643ff1f7182af99257aaee2ed841eaa15a73fdf06fe47539bf06935b111"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
-      "path": "mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
-      "size": 1673669,
-      "sha256": "58a35e74642de9a7ffd39604f06903df39c166d332551c5770ca2e21685defc0"
+      "name": "sophisticatedcore-1.21.1-1.4.87.2270.jar",
+      "path": "mods/sophisticatedcore-1.21.1-1.4.87.2270.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedcore-1.21.1-1.4.87.2270.jar",
+      "size": 1686878,
+      "sha256": "08b5766b74e7a5cf2983401eefc340da6ca2b3c1c8f8b58a352353ad74343302"
     },
     {
-      "name": "sophisticatedstorage-1.21.1-1.5.83.2017.jar",
-      "path": "mods/sophisticatedstorage-1.21.1-1.5.83.2017.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedstorage-1.21.1-1.5.83.2017.jar",
-      "size": 1828640,
-      "sha256": "354f62ef885b3219fb0787d211582d7ea733800ff31787cc85b9af68d260b600"
+      "name": "sophisticatedstorage-1.21.1-1.5.87.2089.jar",
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.87.2089.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/sophisticatedstorage-1.21.1-1.5.87.2089.jar",
+      "size": 1869219,
+      "sha256": "ac86080d5544361bbcd37604c467bcaf57e73ae9daa335ae58f11a7d169aa709"
     },
     {
       "name": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
@@ -2033,18 +2068,18 @@
       "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
     },
     {
-      "name": "supermartijn642corelib-1.1.22-neoforge-mc1.21.jar",
-      "path": "mods/supermartijn642corelib-1.1.22-neoforge-mc1.21.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/supermartijn642corelib-1.1.22-neoforge-mc1.21.jar",
-      "size": 558466,
-      "sha256": "b6e5a4bbc2548c849fc278972c285190a4fd7ae7efa92923d7d7bff1ddac52ff"
+      "name": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "path": "mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "size": 560783,
+      "sha256": "22884e7c6b7c4847e7bb97fbfa61b5f836b7909bb468e7637f6788be56e59f00"
     },
     {
-      "name": "supplementaries-neoforge-1.21.1-3.8.5.jar",
-      "path": "mods/supplementaries-neoforge-1.21.1-3.8.5.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/supplementaries-neoforge-1.21.1-3.8.5.jar",
-      "size": 13469336,
-      "sha256": "c05b1c9d39d37694d197ef84ffe70f9dbe995261333cc7c06610c7bff6d9599e"
+      "name": "supplementaries-1.21.1-3.8.10-neoforge.jar",
+      "path": "mods/supplementaries-1.21.1-3.8.10-neoforge.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/supplementaries-1.21.1-3.8.10-neoforge.jar",
+      "size": 13497285,
+      "sha256": "6bc1a7c6c0b8976b77dc893fef2bf7888be14b831555632f9f0d369629be936c"
     },
     {
       "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
@@ -2117,6 +2152,13 @@
       "sha256": "f0aacddb1f8f191f13b79c603e52bd49a6d1cb918078d8a3bdcb2621c88b8d40"
     },
     {
+      "name": "trashcans-1.1.0-neoforge-mc1.21.jar",
+      "path": "mods/trashcans-1.1.0-neoforge-mc1.21.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/trashcans-1.1.0-neoforge-mc1.21.jar",
+      "size": 167687,
+      "sha256": "6b6bf375c71d97fd8d76036e0e4829c477626e3cc5f44612fd5adf5d5d9f9dd7"
+    },
+    {
       "name": "treeharvester-1.21.1-9.1.jar",
       "path": "mods/treeharvester-1.21.1-9.1.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/treeharvester-1.21.1-9.1.jar",
@@ -2138,32 +2180,32 @@
       "sha256": "47d8759727ed0a2fdb45530636b2b5a1968ed4fd39bbb48447dadf2da5c1938d"
     },
     {
-      "name": "voicechat-neoforge-1.21.1-2.6.21.jar",
-      "path": "mods/voicechat-neoforge-1.21.1-2.6.21.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/voicechat-neoforge-1.21.1-2.6.21.jar",
-      "size": 4913870,
-      "sha256": "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366"
+      "name": "voicechat-neoforge-1.21.1-2.6.22.jar",
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "size": 4918442,
+      "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac"
     },
     {
-      "name": "VoidMinersRemastered-1.21.1-2.0.0-NeoForge.jar",
-      "path": "mods/VoidMinersRemastered-1.21.1-2.0.0-NeoForge.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/VoidMinersRemastered-1.21.1-2.0.0-NeoForge.jar",
-      "size": 2325035,
-      "sha256": "c62ddca521516465e21ddecd0146371e2518679f633c01c930fb378c1a001abb"
+      "name": "VoidMinersRemasteredReforked-1.21.1-1.6.7-NeoForge.jar",
+      "path": "mods/VoidMinersRemasteredReforked-1.21.1-1.6.7-NeoForge.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/VoidMinersRemasteredReforked-1.21.1-1.6.7-NeoForge.jar",
+      "size": 641765,
+      "sha256": "978dd96e27abe57f659af07b85c7d7154a0f71ffa48594b3214ac0318b4633ad"
     },
     {
-      "name": "watermedia_platform_extension-3.0.0-beta.7.jar.disabled",
-      "path": "mods/watermedia_platform_extension-3.0.0-beta.7.jar.disabled",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/watermedia_platform_extension-3.0.0-beta.7.jar.disabled",
-      "size": 248825,
-      "sha256": "b47ef8f44ef825fb7852f0b05ca1cac8544d37c8d4ce34a1b6a280e22f301137"
+      "name": "waystones-neoforge-1.21.1-21.1.41.jar",
+      "path": "mods/waystones-neoforge-1.21.1-21.1.41.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/waystones-neoforge-1.21.1-21.1.41.jar",
+      "size": 1217415,
+      "sha256": "3d38c91a114a3c6d29767c0c7216633263816caef8d3b91600c8e061b3baa590"
     },
     {
-      "name": "waystones-neoforge-1.21.1-21.1.40.jar",
-      "path": "mods/waystones-neoforge-1.21.1-21.1.40.jar",
-      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/waystones-neoforge-1.21.1-21.1.40.jar",
-      "size": 1210134,
-      "sha256": "3d5d0e9fc2715da8eab9fee5ba56e6b900e1f2e9c68586ed19762cb3a01b1781"
+      "name": "woot-revived-21.1.1.10-kjs.jar",
+      "path": "mods/woot-revived-21.1.1.10-kjs.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/woot-revived-21.1.1.10-kjs.jar",
+      "size": 1296029,
+      "sha256": "2293aa70f3beccc1aebbb6d9de007b146c025a5c51d7fa381fbdb4a4b94ade45"
     },
     {
       "name": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
