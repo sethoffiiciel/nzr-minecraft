@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "generatedAt": "2026-08-22T08:16:47.461Z",
+  "generatedAt": "2026-08-22T08:50:42.459Z",
   "files": [
     {
       "name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -2283,6 +2283,32 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
       "size": 136820,
       "sha256": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
+    }
+  ],
+  "extraData": [
+    {
+      "name": "config-seed.zip",
+      "folder": "config",
+      "mode": "seed",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/config-seed.zip",
+      "size": 374707,
+      "sha256": "e089806090bec9cc14c808cddf94d7ff0b43fec6cc799b6e6e478c3ba715951f"
+    },
+    {
+      "name": "config__fancymenu-data.zip",
+      "folder": "config/fancymenu",
+      "mode": "sync",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/config__fancymenu-data.zip",
+      "size": 9704752,
+      "sha256": "27e187572175f010ea672bf3147b3b52f45e55de3cb0777c6c49d65636fdc8ae"
+    },
+    {
+      "name": "kubejs-data.zip",
+      "folder": "kubejs",
+      "mode": "sync",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/kubejs-data.zip",
+      "size": 2256520,
+      "sha256": "3da3655efa161cb39eed7a51e701312962b7ff131f8b5717438246ae3d12fcc9"
     }
   ]
 }
