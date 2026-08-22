@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "generatedAt": "2026-08-22T08:50:42.459Z",
+  "generatedAt": "2026-08-22T11:06:04.776Z",
   "files": [
     {
       "name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -2309,6 +2309,22 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/kubejs-data.zip",
       "size": 2256520,
       "sha256": "3da3655efa161cb39eed7a51e701312962b7ff131f8b5717438246ae3d12fcc9"
+    },
+    {
+      "name": "resourcepacks-seed.zip",
+      "folder": "resourcepacks",
+      "mode": "seed",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/resourcepacks-seed.zip",
+      "size": 32499137,
+      "sha256": "409f721d30a719f54cf3471fba60ab4e53ef62ee22814c82b356f146014b855c"
+    },
+    {
+      "name": "shaderpacks-seed.zip",
+      "folder": "shaderpacks",
+      "mode": "seed",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/shaderpacks-seed.zip",
+      "size": 2681309,
+      "sha256": "43ab99ec8addb82648d3fb7a3acb0df44ba06fb02067ee8c6f07404796b3a51e"
     }
   ]
 }
