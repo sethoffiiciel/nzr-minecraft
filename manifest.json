@@ -1,6 +1,6 @@
 {
-  "version": "0.0.1",
-  "generatedAt": "2026-08-22T11:06:04.776Z",
+  "version": "0.0.2",
+  "generatedAt": "2026-08-23T15:43:55.631Z",
   "files": [
     {
       "name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -1018,6 +1018,13 @@
       "sha256": "3c4152461540e3cce8fe25c3e1a1fa8ce6982bbad44dca6d3b7e30a05ab2d531"
     },
     {
+      "name": "faewulf_lib-neoforge-1.21.1-1.4.0.jar",
+      "path": "mods/faewulf_lib-neoforge-1.21.1-1.4.0.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/faewulf_lib-neoforge-1.21.1-1.4.0.jar",
+      "size": 329492,
+      "sha256": "c333a8f91acc5b4db6658e1de40b5039689f0dd5a46588ebae32b638705637eb"
+    },
+    {
       "name": "fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
       "path": "mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/fancymenu_neoforge_3.9.10_MC_1.21.1.jar",
@@ -1786,6 +1793,13 @@
       "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
       "size": 102980,
       "sha256": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7"
+    },
+    {
+      "name": "piggyback-neoforge-1.21.1-1.1.1.jar",
+      "path": "mods/piggyback-neoforge-1.21.1-1.1.1.jar",
+      "url": "https://github.com/sethoffiiciel/nzr-minecraft/releases/download/v0.0.1-mods/piggyback-neoforge-1.21.1-1.1.1.jar",
+      "size": 342949,
+      "sha256": "a9712c6d333302297db876beb973e105097e2660a22157c083c94954222c14eb"
     },
     {
       "name": "PKGBadges-7.0.jar",
